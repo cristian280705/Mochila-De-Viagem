@@ -20,4 +20,4 @@ Projeto interativo de uma Mochila que guarda as informações informadas pelo us
 > Sempre que a tela é carregada, as informaçoes sao enviadas para uma funçao que cria os items da lista.
 
 
-> Todos os items sao indentificados por um id, quando o usuario deleta algum item, esse item é indentificado é deletado do localStorage.  
+> Todos os items sao indentificados por um id, quando o usuario deleta algum item, esse item é indentificado e deletado do localStorage.  
